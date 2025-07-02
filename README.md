@@ -1,9 +1,9 @@
 # 💼 Portfolio Backend – Jabed Miah
 
-This repository contains the **backend server** for my personal portfolio website. It powers the contact form functionality, managing incoming data securely and efficiently.
+This repository hosts the **backend server** for my personal portfolio website. Built with Node.js, Express.js, MongoDB, and hosted on render server. This server plays a vital role in enabling dynamic interaction on the website—specifically powering the contact form that allows recruiters, collaborators, and visitors to reach out directly.
 
-- 🔗 **Frontend GitHub Repo**: [Portfolio-frontend](https://github.com/Jabed1234/Portfolio-frontend/tree/main)  
-- 🌐 **Live Website**: [https://jabed1234.github.io/Portfolio-frontend/](https://jabed1234.github.io/Portfolio-frontend/)
+- 🔗 **Frontend GitHub Repo**: Portfolio-frontend](https://github.com/Jabed1234/Portfolio-frontend/tree/main 
+- 🌐 **Live Website**: https://jabed1234.github.io/Portfolio-frontend/](https://jabed1234.github.io/Portfolio-frontend/
 
 ---
 
