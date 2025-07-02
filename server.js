@@ -35,7 +35,7 @@ app.post("/submit-form", async (req, res) => {
       subject,
       message,
     });
-    await newContact.save(); // <-- you had missing () here!
+    await newContact.save(); 
 
     // 3. storing it in a schema with predefined condition from contact.js
     console.log("Saved to DB:", newContact);
