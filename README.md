@@ -75,7 +75,6 @@ This endpoint is triggered when a user submits the contact form on my portfolio.
 
 #### 📥 Request Body:
 
-```json
 {
   "name": "Jabed Miah",
   "email": "jmiah5@fordham.edu",
@@ -83,7 +82,6 @@ This endpoint is triggered when a user submits the contact form on my portfolio.
   "phoneNumber": "3472697248",
   "subject": "First Contact"
 }
-```json
 📤 Response:
 json
 Copy
