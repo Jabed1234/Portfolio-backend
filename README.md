@@ -116,21 +116,23 @@ npm install
 ## Create a .env file with your MongoDB URI
 echo "MONGO_URI=your_mongodb_atlas_connection_string" > .env
 
-## Start the server
-node server.js:  
+## 🚀 Running the Server
+
+```bash
+node server.js
 🔐 Environment Variables
-Variable	Description:  
+Variable	Description
 MONGO_URI	MongoDB Atlas connection string
-PORT	Optional (default is 3000)
+PORT	Optional (defaults to 3000)
 
-📈 Future Improvements:  
-⛑ Add backend-level input validation (e.g. Joi)
+📈 Future Improvements
+⛑️ Add backend-level input validation (e.g., using Joi)
 
-📬 Integrate Nodemailer to send emails from submissions
+📬 Integrate Nodemailer to send emails from form submissions
 
-🔐 Add rate limiting and reCAPTCHA to prevent spam
+🔐 Implement rate limiting & reCAPTCHA to prevent spam
 
-🛡 Build admin dashboard to view/manage form entries
+🛡️ Build an admin dashboard to view/manage form entries
 
 📄 License
 All rights reserved © Jabed Miah
@@ -140,3 +142,15 @@ This repository is proprietary. You may not copy, modify, or distribute without 
 📧 Email: jmiah5@fordham.edu
 
 🌐 Portfolio: https://jabed1234.github.io/Portfolio-frontend/
+
+---
+
+### ✅ What’s Improved:
+- Headings for easy navigation
+- Tables for environment variables
+- Bullet points for better list readability
+- Clickable email and portfolio links
+- Code block formatting for commands
+
+📬 Contact Me
+📧 Email: jmiah5@fordham.edu
