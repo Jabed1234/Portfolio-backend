@@ -72,7 +72,6 @@ This endpoint is triggered when a user submits the contact form on my portfolio.
 
 #### 📥 Request Body:
 
-````markdown
 ```bash
 {
   "name": "Jabed Miah",
