@@ -125,14 +125,14 @@ Variable	Description
 MONGO_URI	MongoDB Atlas connection string
 PORT	Optional (defaults to 3000)
 
-📈 Future Improvements
-⛑️ Add backend-level input validation (e.g., using Joi)
+📈 Future Improvements:
+1. ⛑️ Add backend-level input validation (e.g., using Joi)
 
-📬 Integrate Nodemailer to send emails from form submissions
+2. 📬 Integrate Nodemailer to send emails from form submissions
 
-🔐 Implement rate limiting & reCAPTCHA to prevent spam
+3. 🔐 Implement rate limiting & reCAPTCHA to prevent spam
 
-🛡️ Build an admin dashboard to view/manage form entries
+4. 🛡️ Build an admin dashboard to view/manage form entries
 
 📄 License
 All rights reserved © Jabed Miah
