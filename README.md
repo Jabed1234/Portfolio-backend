@@ -53,9 +53,7 @@ Here’s what I implemented:
 
 ## 📡 Render Deployment Example
 
-📍 Screenshot of the backend live and functioning on Render:
-
-![Render Logs](./Screenshot%202025-07-02%20at%2012.48.22%E2%80%AFPM.png)
+![image](https://github.com/user-attachments/assets/bb958d4b-c6af-4463-bf10-3d7daeb154c2)
 
 ---
 
