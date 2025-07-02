@@ -136,21 +136,14 @@ PORT	Optional (defaults to 3000)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ✅ What’s Improved:
-- Headings for easy navigation
-- Tables for environment variables
-- Bullet points for better list readability
-- Clickable email and portfolio links
-- Code block formatting for commands
--------------------------------------------------------------------------------------------------------------------------------------------------
-📄 License
-All rights reserved © Jabed Miah
-This repository is proprietary. You may not copy, modify, or distribute without explicit permission.
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-📬 Contact Me
 📧 Email: jmiah5@fordham.edu
 
 🌐 Portfolio: https://jabed1234.github.io/Portfolio-frontend/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+📄 License
+All rights reserved © Jabed Miah
+This repository is proprietary. You may not copy, modify, or distribute without explicit permission.
 
 
