@@ -117,13 +117,13 @@ npm install
 echo "MONGO_URI=your_mongodb_atlas_connection_string" > .env
 
 ## Start the server
-node server.js:
+node server.js:  
 🔐 Environment Variables
-Variable	Description
+Variable	Description:  
 MONGO_URI	MongoDB Atlas connection string
 PORT	Optional (default is 3000)
 
-📈 Future Improvements:
+📈 Future Improvements:  
 ⛑ Add backend-level input validation (e.g. Joi)
 
 📬 Integrate Nodemailer to send emails from submissions
