@@ -119,11 +119,13 @@ echo "MONGO_URI=your_mongodb_atlas_connection_string" > .env
 ## 🚀 Running the Server
 
 ```bash
-node server.js
-🔐 Environment Variables
-Variable	Description
-MONGO_URI	MongoDB Atlas connection string
-PORT	Optional (defaults to 3000)
+==> Running 'node server.js'
+[dotenv@17.0.0] injecting env (0) from .env – 🔐 encrypt with dotenvx: https://dotenvx.com
+[dotenv@17.0.0] injecting env (0) from .env – 🔐 encrypt with dotenvx: https://dotenvx.com
+[dotenv@17.0.0] injecting env (0) from .env – 🔐 encrypt with dotenvx: https://dotenvx.com
+connected to the DB successfully
+Server running on 10000
+```
 -------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Future Improvements:
 1. ⛑️ Add backend-level input validation (e.g., using Joi)
