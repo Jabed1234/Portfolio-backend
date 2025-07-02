@@ -1,4 +1,4 @@
-# 💼 Portfolio Backend – Jabed Miah
+# 💼 Portfolio Backend
 
 This repository hosts the **backend server** for my personal portfolio website. Built with Node.js, Express.js, MongoDB, and hosted on render server. This server plays a vital role in enabling dynamic interaction on the website—specifically powering the contact form that allows recruiters, collaborators, and visitors to reach out directly.
 
