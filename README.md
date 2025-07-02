@@ -71,8 +71,9 @@ Here’s what I implemented:
 This endpoint is triggered when a user submits the contact form on my portfolio.
 
 #### 📥 Request Body:
-```bash
 
+````markdown
+```bash
 {
   "name": "Jabed Miah",
   "email": "jmiah5@fordham.edu",
@@ -80,7 +81,7 @@ This endpoint is triggered when a user submits the contact form on my portfolio.
   "phoneNumber": "3472697248",
   "subject": "First Contact"
 }
-```bash
+```
 📤 Response:
 json
 Copy
