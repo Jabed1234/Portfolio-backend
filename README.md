@@ -105,18 +105,18 @@ Data is stored in MongoDB
 
 Success response is returned to the frontend
 
-## 🛠 How to Run Locally
-# Clone this repository
+# 🛠 How to Run Locally
+## Clone this repository
 git clone https://github.com/Jabed1234/Portfolio-backend.git
 cd Portfolio-backend
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Create a .env file with your MongoDB URI
+## Create a .env file with your MongoDB URI
 echo "MONGO_URI=your_mongodb_atlas_connection_string" > .env
 
-# Start the server
+## Start the server
 node server.js
 🔐 Environment Variables
 Variable	Description
