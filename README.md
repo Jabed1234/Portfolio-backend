@@ -59,9 +59,8 @@ Here’s what I implemented:
 
 ## 🗃️ MongoDB Atlas Example
 
-📍 Example document saved in MongoDB via the backend:
+![image](https://github.com/user-attachments/assets/845a1d35-ffa7-41b6-8fe1-7a17d379d6f3)
 
-![MongoDB Entry](./Screenshot%202025-07-02%20at%2012.47.57%E2%80%AFPM.png)
 
 ---
 
