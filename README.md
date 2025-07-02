@@ -134,15 +134,6 @@ PORT	Optional (defaults to 3000)
 
 4. 🛡️ Build an admin dashboard to view/manage form entries
 
-📄 License
-All rights reserved © Jabed Miah
-This repository is proprietary. You may not copy, modify, or distribute without explicit permission.
-
-📬 Contact Me
-📧 Email: jmiah5@fordham.edu
-
-🌐 Portfolio: https://jabed1234.github.io/Portfolio-frontend/
-
 ---
 
 ### ✅ What’s Improved:
@@ -152,5 +143,14 @@ This repository is proprietary. You may not copy, modify, or distribute without 
 - Clickable email and portfolio links
 - Code block formatting for commands
 
+📄 License
+All rights reserved © Jabed Miah
+This repository is proprietary. You may not copy, modify, or distribute without explicit permission.
+
+
 📬 Contact Me
 📧 Email: jmiah5@fordham.edu
+
+🌐 Portfolio: https://jabed1234.github.io/Portfolio-frontend/
+
+
