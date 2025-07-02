@@ -72,7 +72,7 @@ This endpoint is triggered when a user submits the contact form on my portfolio.
 
 #### 📥 Request Body:
 
-```bash
+```json
 {
   "name": "Jabed Miah",
   "email": "jmiah5@fordham.edu",
