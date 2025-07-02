@@ -124,7 +124,7 @@ node server.js
 Variable	Description
 MONGO_URI	MongoDB Atlas connection string
 PORT	Optional (defaults to 3000)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Future Improvements:
 1. ⛑️ Add backend-level input validation (e.g., using Joi)
 
@@ -134,7 +134,7 @@ PORT	Optional (defaults to 3000)
 
 4. 🛡️ Build an admin dashboard to view/manage form entries
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ✅ What’s Improved:
 - Headings for easy navigation
@@ -142,12 +142,12 @@ PORT	Optional (defaults to 3000)
 - Bullet points for better list readability
 - Clickable email and portfolio links
 - Code block formatting for commands
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 📄 License
 All rights reserved © Jabed Miah
 This repository is proprietary. You may not copy, modify, or distribute without explicit permission.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 📬 Contact Me
 📧 Email: jmiah5@fordham.edu
 
