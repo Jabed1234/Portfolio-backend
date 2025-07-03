@@ -31,6 +31,7 @@ Here’s what I implemented:
 - ✅ Tested full-stack integration to ensure everything works flawlessly
 
 ---
+# Architecture
 ```
 Frontend (GitHub Pages)
         |
