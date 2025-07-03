@@ -184,6 +184,6 @@ Server running on 10000
 
 📄 License
 All rights reserved © Jabed Miah
-This repository is proprietary. You may not copy, modify, or distribute without explicit permission.
+This repository is proprietary. You may copy, modify, but cannot distribute without explicit permission.
 
 
