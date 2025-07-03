@@ -1,11 +1,12 @@
 # 💼 Portfolio Backend
 
-This repository hosts the **backend server** for my **fullstack** personal portfolio website. Built with Node.js, Express.js, MongoDB, and hosted on render server. This server plays a vital role in enabling dynamic interaction on the website—specifically powering the contact form that allows recruiters, collaborators, and visitors to reach out directly.
+This backend is a critical component of my **full-stack portfolio project**, which integrates a dynamic frontend and a robust server-side architecture. The frontend, built with HTML, CSS, and JavaScript, collects user input through a contact form and sends it via API requests to this backend server. The backend, developed using Node.js and Express.js, validates and sanitizes incoming data before securely storing it in a cloud-hosted MongoDB Atlas database through Mongoose schemas. Deployed on Render, this backend enables real-time, production-ready communication between the user interface and persistent storage, showcasing my ability to design and deploy complete end-to-end web solutions.
 
 - 🔗 **Frontend GitHub Repo**: {Portfolio-frontend] https://github.com/Jabed1234/Portfolio-frontend/tree/main 
 - 🌐 **Live Website**: https://jabed1234.github.io/Portfolio-frontend/
 
 ---
+
 ## 🧠 Project Purpose
 
 This backend handles:
