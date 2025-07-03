@@ -48,6 +48,7 @@ Here’s what I implemented:
 | **Frontend API**   | JSON API consumed by client                 |
 
 ---
+# 🚀 Features
 ✔️ REST API Endpoint
 Handles POST /submit-form requests from the frontend.
 
