@@ -31,13 +31,26 @@ Here’s what I implemented:
 - ✅ Tested full-stack integration to ensure everything works flawlessly
 
 ---
+```
+Frontend (GitHub Pages)
+        |
+        v
+API Request (Fetch)
+        |
+        v
+Backend Server (Express.js on Render)
+        |
+        v
+MongoDB Atlas (Cloud Database)
+```
+---
 
 ## 🧰 Technologies & Tools Used
 
 | Type               | Stack / Tool                                |
 |--------------------|---------------------------------------------|
 | **Language**       | JavaScript (Node.js)                        |
-| **Framework**      | Express.js                                  |
+| **Framework**      | Express.js, CORS                                  |
 | **Database**       | MongoDB Atlas                               |
 | **ODM**            | Mongoose                                    |
 | **Hosting (Backend)** | Render                                  |
