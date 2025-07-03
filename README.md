@@ -140,6 +140,7 @@ Backend parses and validates it
 Data is stored in MongoDB
 
 Success response is returned to the frontend
+
 ---
 # 🛠 How to Run Locally
 ## Clone this repository
