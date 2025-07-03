@@ -48,14 +48,28 @@ Here’s what I implemented:
 | **Frontend API**   | JSON API consumed by client                 |
 
 ---
-## 🚀 Features
-✔️ REST API Endpoint – Handles POST /submit-form requests from the frontend
-✔️ Input Validation – Ensures required fields (name, email, message) are provided and safe
-✔️ Database Integration – Saves contact data into MongoDB Atlas using Mongoose schemas
-✔️ CORS Support – Configured to allow cross-origin requests from the frontend
-✔️ Environment Variables – Keeps sensitive data like DB URIs secure
-✔️ Error Handling – Robust error reporting with HTTP status codes and JSON responses
-✔️ Live Deployment – Hosted on Render for public access
+✔️ REST API Endpoint
+Handles POST /submit-form requests from the frontend.
+
+✔️ Input Validation
+Ensures required fields (name, email, message) are provided and safe.
+
+✔️ Database Integration
+Saves contact data into MongoDB Atlas using Mongoose schemas.
+
+✔️ CORS Support
+Configured to allow cross-origin requests from the frontend.
+
+✔️ Environment Variables
+Keeps sensitive data like DB URIs secure.
+
+✔️ Error Handling
+Robust error reporting with HTTP status codes and JSON responses.
+
+✔️ Live Deployment
+Hosted on Render for public access.
+
+
 
 ---
 ## 📡 Render Deployment Example
