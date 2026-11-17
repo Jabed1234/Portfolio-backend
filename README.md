@@ -1,8 +1,8 @@
 # 💼 Portfolio Backend
 
-This backend is a critical component of my **full-stack portfolio project**, which integrates a dynamic frontend and a robust server-side architecture. The frontend, built with HTML, CSS, and JavaScript, collects user input through a contact form and sends it via API requests to this backend server. The backend, developed using Node.js and Express.js, validates and sanitizes incoming data before securely storing it in a cloud-hosted MongoDB Atlas database through Mongoose schemas. Deployed on Render, this backend enables real-time, production-ready communication between the user interface and persistent storage, showcasing my ability to design and deploy complete end-to-end web solutions.
+This backend is a critical component of my **full-stack portfolio project**, which integrates a dynamic frontend and a robust server-side architecture. The frontend, built with HTML, CSS, and JavaScript, collects user input through a contact form and sends it via API requests to this backend server. The backend, developed using Node.js and Express.js, checks that the required fields are present before storing the submission in a cloud-hosted MongoDB Atlas database through Mongoose schemas. Deployed on Render, this backend enables real-time, production-ready communication between the user interface and persistent storage, showcasing my ability to design and deploy complete end-to-end web solutions.
 
-- 🔗 **Frontend GitHub Repo**: {Portfolio-frontend] https://github.com/Jabed1234/Portfolio-frontend/tree/main 
+- 🔗 **Frontend GitHub Repo**: [Portfolio-frontend](https://github.com/Jabed1234/Portfolio-frontend)
 - 🌐 **Live Website**: https://jabed1234.github.io/Portfolio-frontend/
 
 ---
@@ -69,7 +69,7 @@ MongoDB Atlas (Cloud Database)
 Handles POST /submit-form requests from the frontend.
 
 ✔️ Input Validation
-Ensures required fields (name, email, message) are provided and safe.
+Ensures required fields (name, email, message) are provided.
 
 ✔️ Database Integration
 Saves contact data into MongoDB Atlas using Mongoose schemas.
@@ -115,7 +115,7 @@ This endpoint is triggered when a user submits the contact form on my portfolio.
   "name": "Jabed Miah",
   "email": "jmiah5@fordham.edu",
   "message": "Hi there, this is a test message!",
-  "phoneNumber": "3472697248",
+  "phoneNumber": "5555550100",
   "subject": "First Contact"
 }
 ```
